@@ -14,3 +14,9 @@ N/A
 Navigate to the website and click on the website buttons. You can read about me, view my work samples, and contact me through the links provided.
 
 ![screenshot](https://github.com/AshivaA/my-portfolio/assets/136107176/6a539e9d-0c57-4d8d-baf9-eb9c50dfa756)
+
+## Link to GitHub repository
+[GitHub Repo](https://github.com/AshivaA/my-portfolio)
+
+## Link to deployed application
+[Deployment link]( https://ashivaa.github.io/my-portfolio/)
